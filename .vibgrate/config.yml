@@ -1,0 +1,3 @@
+driftBudget:
+  mode: enforce
+  maxWorseningPercent: 0
