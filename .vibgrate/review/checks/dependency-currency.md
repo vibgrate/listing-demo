@@ -1,4 +1,4 @@
 ---
 title: Dependency currency
 ---
-Loaded from the base branch. The GitHub App does not run this text as a review.
+Flag direct dependencies that fall behind their latest major release, and any new dependency added at an outdated version. Prefer upgrading over pinning back.
