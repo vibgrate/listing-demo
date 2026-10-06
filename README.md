@@ -10,3 +10,5 @@ Optional: set `HOST` and `PORT` to change where the server listens (defaults: `0
 
 Both variables may be omitted; the sample falls back to those defaults when unset.
 See `src/index.ts` for the listen call.
+
+<!-- marketplace capture refresh 2026-10-06 -->
