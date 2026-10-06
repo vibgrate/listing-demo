@@ -9,3 +9,4 @@ on a dependency-change pull request.
 Optional: set `HOST` and `PORT` to change where the server listens (defaults: `0.0.0.0:3000`).
 
 Both variables may be omitted; the sample falls back to those defaults when unset.
+See `src/index.ts` for the listen call.
